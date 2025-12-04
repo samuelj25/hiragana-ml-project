@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+scikit-image
+matplotlib
+tqdm
+kaggle
+notebook
+seaborn
